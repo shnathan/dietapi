@@ -2,3 +2,8 @@ fastapi
 uvicorn
 typing
 numpy
+StandardScaler
+NearestNeighbors
+Pipeline
+FunctionTransformer
+scikit-learn
